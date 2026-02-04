@@ -35,7 +35,7 @@ const navIcons = [
   },
 ];
 
-const dockApps = [
+ const dockApps = [
   {
     id: "finder",
     name: "Portfolio", // was "Finder"
